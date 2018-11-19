@@ -1,0 +1,7 @@
+export { default as StartScreen } from './start/StartVM'
+export { default as ComposeScreen } from './main/compose/ComposeVM'
+export { default as NewsFeedScreen } from './main/newsfeed/NewsFeedVM'
+export { default as InstagramScreen } from './main/instagram'
+export { default as PhotoEditorScreen } from './main/photoEditor/PhotoEditorVM'
+export { default as VideoEditorScreen } from './main/videoEditor/VideoEditorVM'
+export { default as GamesScreen } from './main/games/GameVM'
